@@ -100,5 +100,6 @@ O servidor será iniciado em:
 
 ---
 
-👨‍💻 **Feito por:** Breno Araujo  
-📅 Projeto de estudo — API REST com Node.js e Express
+👨‍💻 **Feito por:** Breno Araujo Melo
+📧 E-mail: devbrenoaraujo@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/brenoaraujodev/
