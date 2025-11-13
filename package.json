@@ -1,0 +1,16 @@
+{
+  "name": "api-catalogo",
+  "version": "1.0.0",
+  "description": "API simples construída em **Node.js com Express**, aplicando o conceito de **Model, Controller e Routes** com **CRUD completo em memória**.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
